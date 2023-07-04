@@ -1,0 +1,14 @@
+materials and processing techniques of OEIC
+Photo oc switch based on self electro optic device (seed)
+Electro optic modelator
+Diff. Monolithic and hybrid integration of optoelectronic integrative fabrication
+Materials and processing of optoelectronic ics
+Discuss on active coupler
+Advantages of edfa
+
+Set 2
+Longitudinal electro optic modulator how it differ from transverse electro optic modulator
+Expression for optical amplifier gan
+What are the challenges in optoelectronic ic
+Diff. Between monolithic and hybrid integration
+What is meant by front end phototeceiver
